@@ -19,4 +19,4 @@ silv's skills and expertise extend beyond programming. He is also a skilled prob
 You can contact silv via:
 
 - Discord: silv#3620
-- Twitter: [@silv](https://twitter.com/silv)
+- Twitter: [@silv](https://twitter.com/silvful)
