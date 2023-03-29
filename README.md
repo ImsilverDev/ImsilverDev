@@ -1,1 +1,1 @@
-[![Total Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Commits&query=%24.data.user.contributionsCollection.totalCommitContributions&url=https://api.github.com/graphql&logo=github)](https://github.com/ImsilverDev)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImsilverDev&show_icons=true&theme=transparent)
