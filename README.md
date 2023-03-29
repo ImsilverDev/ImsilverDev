@@ -1,1 +1,1 @@
-![Total Commits](https://img.shields.io/github/commit-activity/silv?label=Total%20Commits&logo=github&style=for-the-badge)
+[![Total Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Commits&query=%24.data.user.contributionsCollection.totalCommitContributions&url=https://api.github.com/graphql&logo=github)](https://github.com/ImsilverDev)
