@@ -1,3 +1,4 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=ImsilverDev&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImsilverDev)](https://github.com/ImsilverDev/github-readme-stats)
- 
+int main() {
+    std::cout << "Hello, world!" << std::endl;
+    return 0;
+}
